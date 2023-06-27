@@ -1,0 +1,6 @@
+WARNING:607:Long(long) in java.lang.Long has been deprecated and marked for removal
+WARNING:654:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:826:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:933:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1095:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1107:This anonymous inner class creation can be turned into a lambda expression.

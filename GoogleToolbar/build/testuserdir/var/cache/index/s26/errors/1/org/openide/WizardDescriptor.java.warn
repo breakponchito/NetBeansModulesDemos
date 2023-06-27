@@ -1,0 +1,28 @@
+WARNING:1032:Integer(int) in java.lang.Integer has been deprecated and marked for removal
+WARNING:1403:Integer(int) in java.lang.Integer has been deprecated and marked for removal
+WARNING:1412:Integer(int) in java.lang.Integer has been deprecated and marked for removal
+WARNING:3115:Integer(int) in java.lang.Integer has been deprecated and marked for removal
+WARNING:453:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:657:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:670:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:685:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:777:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1003:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1093:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1126:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1445:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1465:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1421:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1505:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1561:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1577:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:2172:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:2263:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:2225:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:2214:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:2337:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:2805:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:2836:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:2902:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:2931:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:3216:This anonymous inner class creation can be turned into a lambda expression.

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="File">
+            <file name="org-myorg-googletoolbar-GoogleActionListener.instance">
+                <!--org.myorg.googletoolbar.GoogleActionListener-->
+                <attr bundlevalue="org.myorg.googletoolbar.Bundle#CTL_GoogleActionListener" name="displayName"/>
+                <attr name="instanceCreate" newvalue="org.myorg.googletoolbar.GoogleActionListener"/>
+            </file>
+            <file name="org-myorg-googletoolbar-MyListenerActionOpenFileSelection.instance">
+                <!--org.myorg.googletoolbar.MyListenerActionOpenFileSelection-->
+                <attr bundlevalue="org.myorg.googletoolbar.Bundle#CTL_MyListenerActionOpenFileSelection" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="org.myorg.googletoolbar.MyListenerActionOpenFileSelection"/>
+                <attr name="iconBase" stringvalue="org/myorg/googletoolbar/payara-micro.png"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Toolbars">
+        <folder name="File">
+            <file name="org-myorg-googletoolbar-GoogleActionListener.shadow">
+                <!--org.myorg.googletoolbar.GoogleActionListener-->
+                <attr name="originalFile" stringvalue="Actions/File/org-myorg-googletoolbar-GoogleActionListener.instance"/>
+                <attr intvalue="500" name="position"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="File">
+            <file name="org-myorg-googletoolbar-MyListenerActionOpenFileSelection.shadow">
+                <!--org.myorg.googletoolbar.MyListenerActionOpenFileSelection-->
+                <attr name="originalFile" stringvalue="Actions/File/org-myorg-googletoolbar-MyListenerActionOpenFileSelection.instance"/>
+                <attr intvalue="0" name="position"/>
+            </file>
+            <file name="org-myorg-googletoolbar-MyListenerActionOpenFileSelection-separatorAfter.instance">
+                <!--org.myorg.googletoolbar.MyListenerActionOpenFileSelection-->
+                <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                <attr intvalue="50" name="position"/>
+            </file>
+            <file name="org-myorg-googletoolbar-MyListenerActionOpenFileSelection-separatorBefore.instance">
+                <!--org.myorg.googletoolbar.MyListenerActionOpenFileSelection-->
+                <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                <attr intvalue="-50" name="position"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

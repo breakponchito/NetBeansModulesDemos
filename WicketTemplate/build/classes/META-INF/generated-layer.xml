@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Templates">
+        <folder name="Project">
+            <folder name="AntJava">
+                <folder name="Web">
+                    <file name="WicketApplicationProject.zip" url="nbresloc:/org/myorg/wickttemplate/WicketApplicationProject.zip">
+                        <!--org.myorg.wickttemplate.WicketApplicationWizardIterator-->
+                        <attr boolvalue="true" name="template"/>
+                        <attr bundlevalue="org.myorg.wickttemplate.Bundle#WicketApplication_displayName" name="displayName"/>
+                        <attr name="iconBase" stringvalue="org/myorg/wickttemplate/WicketApplication.png"/>
+                        <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/myorg/wickttemplate/WicketApplicationDescription.html"/>
+                        <attr name="instantiatingIterator" newvalue="org.myorg.wickttemplate.WicketApplicationWizardIterator"/>
+                        <attr boolvalue="true" name="requireProject"/>
+                    </file>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

@@ -1,0 +1,14 @@
+WARNING:87:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:171:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:206:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:302:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:625:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:649:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:658:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:669:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:683:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:696:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:708:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:718:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:731:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:745:This anonymous inner class creation can be turned into a lambda expression.

@@ -1,0 +1,8 @@
+WARNING:362:Integer(int) in java.lang.Integer has been deprecated and marked for removal
+WARNING:1120:Long(long) in java.lang.Long has been deprecated and marked for removal
+WARNING:1121:Long(long) in java.lang.Long has been deprecated and marked for removal
+WARNING:1122:Long(long) in java.lang.Long has been deprecated and marked for removal
+WARNING:1123:Long(long) in java.lang.Long has been deprecated and marked for removal
+WARNING:888:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1082:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1257:This anonymous inner class creation can be turned into a lambda expression.

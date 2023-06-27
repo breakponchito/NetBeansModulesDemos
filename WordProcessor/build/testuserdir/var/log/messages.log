@@ -1,0 +1,150 @@
+-------------------------------------------------------------------------------
+>Log Session: Wednesday, March 22, 2023 at 7:10:21 PM Central Standard Time
+>System Info: 
+  Product Version         = WordProcessor dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95
+  Operating System        = Windows 10 version 10.0 running on amd64
+  Java; VM; Vendor        = 11.0.13; OpenJDK 64-Bit Server VM 11.0.13+8-LTS; Azul Systems, Inc.
+  Runtime                 = OpenJDK Runtime Environment 11.0.13+8-LTS
+  Java Home               = C:\java\zulu11.52.13-ca-jdk11.0.13-win_x64
+  System Locale; Encoding = es_MX (wordprocessor); Cp1252
+  Home Directory          = C:\Users\alfon
+  Current Directory       = C:\java\modules\WordProcessor
+  User Directory          = C:\java\modules\WordProcessor\build\testuserdir
+  Cache Directory         = C:\java\modules\WordProcessor\build\testuserdir\var\cache
+  Installation            = C:\java\modules\WordProcessor\build\cluster
+                            C:\java\projects\netbeans\nbbuild\netbeans\platform
+                            C:\java\projects\netbeans\nbbuild\netbeans\platform
+  Boot & Ext. Classpath   = 
+  Application Classpath   = C:\java\projects\netbeans\nbbuild\netbeans\platform\lib\boot.jar;C:\java\projects\netbeans\nbbuild\netbeans\platform\lib\org-openide-modules.jar;C:\java\projects\netbeans\nbbuild\netbeans\platform\lib\org-openide-util-lookup.jar;C:\java\projects\netbeans\nbbuild\netbeans\platform\lib\org-openide-util-ui.jar;C:\java\projects\netbeans\nbbuild\netbeans\platform\lib\org-openide-util.jar
+  Startup Classpath       = C:\java\projects\netbeans\nbbuild\netbeans\platform\core\asm-9.4.jar;C:\java\projects\netbeans\nbbuild\netbeans\platform\core\asm-commons-9.4.jar;C:\java\projects\netbeans\nbbuild\netbeans\platform\core\asm-tree-9.4.jar;C:\java\projects\netbeans\nbbuild\netbeans\platform\core\core-base.jar;C:\java\projects\netbeans\nbbuild\netbeans\platform\core\core.jar;C:\java\projects\netbeans\nbbuild\netbeans\platform\core\org-netbeans-libs-asm.jar;C:\java\projects\netbeans\nbbuild\netbeans\platform\core\org-openide-filesystems-compat8.jar;C:\java\projects\netbeans\nbbuild\netbeans\platform\core\org-openide-filesystems.jar;C:\java\modules\WordProcessor\build\cluster\core\locale\core_wordprocessor.jar
+-------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.54 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.util [9.28 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.util.ui [9.29 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.modules [7.68 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.word.editor.api [1.0 230323]
+	org.word.editor.uppercase [1.0 230323]
+	org.netbeans.api.annotations.common/1 [1.48 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.filesystems [9.33 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.awt [7.88 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.api.progress/1 [1.68 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.api.progress.nb [1.68 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.dialogs [7.66 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.nodes [7.65 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.windows [6.97 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.swing.tabcontrol [1.77 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.swing.outline [1.54 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.explorer [6.82 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.editor.mimelookup/1 [1.60 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.text [6.88 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.actions [6.59 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.libs.asm [5.23 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.bootstrap/1 [2.98 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.core.startup.base [1.82.0.1 1 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.core.startup/1 [1.82.0.1 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.filesystems.nb [9.30 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.api.scripting [1.17 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.queries/1 [1.63 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.api.templates [1.28 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.loaders [7.90 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.settings/1 [1.69 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.swing.plaf [1.62 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.keyring [1.44 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.api.intent [1.22 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.api.io [1.23 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.io [1.69 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.sampler [1.34 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.core/2 [3.71 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.spi.quicksearch [1.47 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.options.api/1 [1.65 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.core.windows/2 [2.105 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.word.editor.core [1.0 230323]
+	org.netbeans.libs.batik.read [1.13.0.1 1 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.util.ui.svg [1.14 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.openide.filesystems.compat8 [9.29 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.progress.ui [1.53 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.print [7.46 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.options.keymap [1.57 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.libs.jna/2 [2.15 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.masterfs/2 [2.75.0.2 2 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.masterfs.windows [1.36 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.masterfs.ui [2.23.0.2 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.masterfs.nio2 [1.35 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.keyring.fallback [1.28 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.keyring.impl [1.44 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.modules.editor.mimelookup.impl/1 [1.52 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.libs.osgi [1.42 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.libs.jna.platform/2 [2.15 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.libs.felix [2.35 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.core.ui/1 [1.65 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.core.output2/1 [1.62 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.core.network [1.32 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.core.netigso [1.51 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.core.nativeaccess/1 [1.51 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.core.multitabs/1 [1.32.0.1 1 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+	org.netbeans.core.io.ui/1 [1.50 dev-6257317ac423a16efa9c04bc38fb3f34ddad6c95]
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
+INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto detect
+INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto - PAC (http://wpad/wpad.dat)
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
+INFO [org.netbeans.ui.metrics.laf]: USG_LOOK_AND_FEEL
+Diagnostic information
+Input arguments:
+	-Dnetbeans.logger.console=true
+	-ea
+	-Djdk.home=C:\java\zulu11.52.13-ca-jdk11.0.13-win_x64
+	-Dnetbeans.home=C:\java\projects\netbeans\nbbuild\netbeans\platform
+	-Dnetbeans.user=C:\java\modules\WordProcessor\build\testuserdir
+	-Dnetbeans.default_userdir_root=
+	-XX:+HeapDumpOnOutOfMemoryError
+	-XX:HeapDumpPath=C:\java\modules\WordProcessor\build\testuserdir\var\log\heapdump.hprof
+	-Dsun.awt.keepWorkingSetOnMinimize=true
+	-Djava.security.manager=allow
+	-Dnetbeans.dirs=C:\java\modules\WordProcessor\build\cluster;C:\java\projects\netbeans\nbbuild\netbeans\platform
+	exit
+Compiler: HotSpot 64-Bit Tiered Compilers
+Heap memory usage: initial 252.0MB maximum 4032.0MB
+Non heap memory usage: initial 7.3MB maximum -1b
+Garbage collector: G1 Young Generation (Collections=5 Total time spent=0s)
+Garbage collector: G1 Old Generation (Collections=0 Total time spent=0s)
+Classes: loaded=6462 total loaded=6462 unloaded 0
+INFO [org.netbeans.core.network.proxy.ProxyAutoConfig]: InputStream for http://wpad/wpad.dat throws 
+java.net.UnknownHostException: wpad
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/java.net.Socket.connect(Socket.java:558)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:182)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:341)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:362)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1253)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1071)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1069)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:795)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1068)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1015)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1592)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1512)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1510)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:795)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at org.netbeans.core.network.proxy.ProxyAutoConfig.downloadPAC(ProxyAutoConfig.java:155)
+[catch] at org.netbeans.core.network.proxy.ProxyAutoConfig.initEngine(ProxyAutoConfig.java:94)
+	at org.netbeans.core.network.proxy.ProxyAutoConfig$1.run(ProxyAutoConfig.java:82)
+	at org.openide.util.RequestProcessor$Task.run(RequestProcessor.java:1419)
+	at org.netbeans.modules.openide.util.GlobalLookup.execute(GlobalLookup.java:45)
+	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:287)
+	at org.openide.util.RequestProcessor$Processor.run(RequestProcessor.java:2034)
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: auto
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - pac url: http://wpad/wpad.dat
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy TEST - http host: 
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy TEST - http port: 0
+INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 16,910,159,872
+INFO [null]: Total physical memory 16,910,159,872
+WARNING [org.openide.filesystems.Ordering]: Not all children in Menu/Window/ marked with the position attribute: [org-word-editor-core-WordTopComponent.shadow], but some are: [org-netbeans-core-io-ui-IOWindowAction.shadow, SwitchToRecentDocumentAction.shadow, Web, Tools, Separator3.instance, ConfigureWindow, org-netbeans-core-windows-actions-ResetWindowsAction.shadow, Separator4.instance, CloseWindowAction.shadow, CloseAllDocumentsAction.shadow, CloseAllButThisAction.shadow, GroupsMenuAction.shadow, DocumentsAction.shadow]

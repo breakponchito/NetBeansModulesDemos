@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.yourorg.mymodule">
+    <module_version install_time="1687840026416" last="true" origin="installer" specification_version="1.0">
+        <file crc="2387173795" name="config/Modules/org-yourorg-mymodule.xml"/>
+        <file crc="4128460695" name="modules/org-yourorg-mymodule.jar"/>
+    </module_version>
+</module>

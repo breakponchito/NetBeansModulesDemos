@@ -1,0 +1,9 @@
+projects\netbeans\nbbuild\netbeans\platform=1678901390789
+cluster.modules/WordProcessor/build/cluster=1679533820633
+cluster.projects/netbeans/nbbuild/netbeans/platform=1678901390789
+user=1679533820633
+crc=7
+locale=es_MX
+branding=wordprocessor
+java.version=11.0.13
+java.vm.version=11.0.13+8-LTS

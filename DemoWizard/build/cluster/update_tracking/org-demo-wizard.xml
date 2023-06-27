@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.demo.wizard">
+    <module_version install_time="1687869590375" last="true" origin="installer" specification_version="1.0">
+        <file crc="2863018017" name="config/Modules/org-demo-wizard.xml"/>
+        <file crc="4229776749" name="modules/org-demo-wizard.jar"/>
+    </module_version>
+</module>

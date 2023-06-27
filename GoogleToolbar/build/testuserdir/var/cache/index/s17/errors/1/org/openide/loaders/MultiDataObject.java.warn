@@ -1,0 +1,2 @@
+WARNING:462:Undocumented format parameter {0} prepend line\d # {0} - some text,
+WARNING:1085:This anonymous inner class creation can be turned into a lambda expression.

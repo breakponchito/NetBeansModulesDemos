@@ -1,0 +1,3 @@
+WARNING:70:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:114:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:135:This anonymous inner class creation can be turned into a lambda expression.

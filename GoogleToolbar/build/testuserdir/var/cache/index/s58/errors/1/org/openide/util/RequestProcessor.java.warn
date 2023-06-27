@@ -1,0 +1,2 @@
+WARNING:1053:java.security.AccessController in java.security has been deprecated and marked for removal
+WARNING:1922:checkAccess() in java.lang.ThreadGroup has been deprecated and marked for removal

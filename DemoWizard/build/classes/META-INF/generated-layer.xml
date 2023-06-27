@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Demo">
+            <file name="org-demo-wizard-DemoWizardAction.instance">
+                <!--org.demo.wizard.DemoWizardAction-->
+                <attr name="displayName" stringvalue="Open Demo Wizard"/>
+                <attr methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="org.demo.wizard.DemoWizardAction"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="View">
+            <file name="org-demo-wizard-DemoWizardAction.shadow">
+                <!--org.demo.wizard.DemoWizardAction-->
+                <attr name="originalFile" stringvalue="Actions/Demo/org-demo-wizard-DemoWizardAction.instance"/>
+                <attr intvalue="10" name="position"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

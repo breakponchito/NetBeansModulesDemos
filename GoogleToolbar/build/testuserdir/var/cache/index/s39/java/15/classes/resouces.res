@@ -1,0 +1,9 @@
+META-INF/services/org.netbeans.spi.project.FileOwnerQueryImplementation
+META-INF/services/org.netbeans.spi.queries.SharabilityQueryImplementation
+META-INF/namedservices/Modules/Stop/java.lang.Runnable
+META-INF/services/org.netbeans.spi.queries.SharabilityQueryImplementation2
+META-INF/namedservices/Modules/Start/java.lang.Runnable
+META-INF/services/javax.annotation.processing.Processor
+META-INF/services/org.netbeans.spi.queries.CollocationQueryImplementation2
+META-INF/services/org.netbeans.spi.queries.FileEncodingQueryImplementation
+META-INF/services/org.netbeans.spi.queries.FileBuiltQueryImplementation

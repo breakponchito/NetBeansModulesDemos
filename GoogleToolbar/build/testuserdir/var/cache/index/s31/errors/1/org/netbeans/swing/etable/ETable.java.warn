@@ -1,0 +1,4 @@
+WARNING:2076:Integer(int) in java.lang.Integer has been deprecated and marked for removal
+WARNING:1057:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:1753:This anonymous inner class creation can be turned into a lambda expression.
+WARNING:2031:This anonymous inner class creation can be turned into a lambda expression.
